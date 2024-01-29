@@ -1,0 +1,1 @@
+This is output from input.txt fileThis is a Sample Text File.
